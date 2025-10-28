@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+SpeechRecognition
+googletrans==4.0.0-rc1
+gTTS
+pydub
+python-dotenv
