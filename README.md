@@ -8,3 +8,7 @@ Download and install FFmpeg:
 
 ```python
 FFMPEG_DIR = r"C:\ffmpeg\bin"
+
+
+
+
